@@ -1,0 +1,27 @@
+{
+  "name": "lesson2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:scripts": "babel ./src --out-dir=./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vladyslav-Andrievych/front-end-tools-lesson2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vladyslav-Andrievych/front-end-tools-lesson2/issues"
+  },
+  "homepage": "https://github.com/Vladyslav-Andrievych/front-end-tools-lesson2#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.17.0",
+    "@babel/core": "^7.17.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.16.7",
+    "@babel/plugin-transform-arrow-functions": "^7.16.7",
+    "@babel/plugin-transform-template-literals": "^7.16.7"
+  }
+}
