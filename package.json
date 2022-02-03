@@ -20,8 +20,6 @@
   "devDependencies": {
     "@babel/cli": "^7.17.0",
     "@babel/core": "^7.17.0",
-    "@babel/plugin-proposal-object-rest-spread": "^7.16.7",
-    "@babel/plugin-transform-arrow-functions": "^7.16.7",
-    "@babel/plugin-transform-template-literals": "^7.16.7"
+    "@babel/preset-env": "^7.16.11"
   }
 }
